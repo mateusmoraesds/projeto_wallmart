@@ -8,3 +8,5 @@ A tabela de lojas foi ingerida por csv.
 Edit 12/01 - Notebooks de 'suporte' e camada bronze finalizada. 
 
 Edit 13/01 - Inclusão da tabela silver '3.3.1 - Vendas - US Census - Silver'
+
+Edit 14/01 - Inclusão da tabela silver '3.3.2 - Cadastro Lojas - Consolidado'
